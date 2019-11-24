@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "502447401091",
+    "firebase_url": "https://btchatapp.firebaseio.com",
+    "project_id": "btchatapp",
+    "storage_bucket": "btchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502447401091:android:4690ac2d3dc861cdc353b6",
+        "android_client_info": {
+          "package_name": "zeus.com.bt_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502447401091-brq2rn5ha56fdeheimjuvpk7np20v2fr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "zeus.com.bt_chat_app",
+            "certificate_hash": "c3869047aad32c3729cc6e6c42429a3736da7efc"
+          }
+        },
+        {
+          "client_id": "502447401091-ltsp53nk8butfhmjq497va8q11g6eaiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASyMWA1NN3E3CM9SDqk9RBlBObOKtgH20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502447401091-ltsp53nk8butfhmjq497va8q11g6eaiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
